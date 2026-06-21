@@ -304,39 +304,7 @@ Heart-Disease-Prediction-ML-Classification-Project/
 
 ---
 
-# 🚀 How To Run
 
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction-ML-Classification-Project.git
-```
-
-## Move Into Project Folder
-
-```bash
-cd Heart-Disease-Prediction-ML-Classification-Project
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Notebook
-
-```bash
-jupyter notebook
-```
-
-## Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
 
 # 📈 Results
 
@@ -372,7 +340,3 @@ Through this project the following concepts were applied:
 # 👨‍💻 Author
 
 Anuj Rasaily
-
-B.Sc. Computer Science (Honours)
-
-Aspiring Data Analyst | Data Science Enthusiast | Machine Learning Learner
